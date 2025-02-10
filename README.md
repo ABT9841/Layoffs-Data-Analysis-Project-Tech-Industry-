@@ -123,10 +123,6 @@ After data cleaning, the dataset now has:
 
 ---
 
-## 🚀 Next Steps
-✅ Perform deeper **trend analysis** on layoffs.  
-✅ Use **visualization tools** (Tableau, Power BI) to derive insights.  
-✅ Upload final cleaned dataset to **GitHub** for public use.  
 
 ---
 
