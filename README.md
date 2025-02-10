@@ -142,5 +142,5 @@ After data cleaning, the dataset now has:
 ---
 
 ## 🤝 Connect with Me
-If you found this project useful, feel free to connect with me on **[LinkedIn](#)** or check out my other **[GitHub Projects](#)**! 🚀
+If you found this project useful, feel free to connect with me on **[https://www.linkedin.com/in/alish-thapa-4a874127a/](#)** or check out my other **[https://github.com/ABT9841?tab=repositories](#)**! 🚀
 
