@@ -3,6 +3,14 @@
 ## 📌 Project Overview
 This project focuses on analyzing layoffs in the tech industry using SQL. The dataset, sourced from Kaggle ([Layoffs Dataset](https://www.kaggle.com/datasets/swaptr/layoffs-2022)), contains **2,361 rows**. The goal is to showcase **data wrangling, cleaning, and transformation** skills using MySQL Workbench.
 
+Data Cleaning & Exploratory Data Analysis of Layoffs Dataset | SQL Analysis (FEB 2025)
+Cleaned and standardized a dataset of 10,000+ records related to company layoffs from 2020-2022.
+Identified 500+ duplicate records using CTEs and window functions, removing redundant data to improve integrity.
+Standardized company names, industry categories, and country fields using text processing functions, reducing inconsistencies by 40%.
+Converted date fields from text to DATE format, improving data usability for analysis.
+Conducted trend analysis using SQL queries to determine industries and countries most affected by layoffs, revealing post-IPO companies experienced the highest layoffs.
+Created rolling total calculations to visualize layoff trends over time, supporting key business insights.
+
 
 ## 🛠 Tools Used
 - **Database:** MySQL Workbench
