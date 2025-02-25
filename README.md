@@ -26,7 +26,7 @@ This project involved extensive **data cleaning and exploratory analysis** to un
 - **Handled NULL values & missing data**, ensuring completeness and consistency.
 
 ### 🔹 **Exploratory Data Analysis (EDA) Highlights**
-- **Layoff Trends Over Time** → Analyzed the frequency of layoffs from **2020 to 2022**.
+- **Layoff Trends Over Time** → Analyzed the frequency of layoffs from **2020 to 2023**.
 - **Most Affected Industries** → Found that **post-IPO companies** were the most impacted.
 - **Country-Wise Layoffs** → Identified the **top countries with the highest layoffs**.
 - **Company-Wise Insights** → Discovered the companies with the **most layoffs**.
