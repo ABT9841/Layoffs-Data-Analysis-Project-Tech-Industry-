@@ -4,7 +4,7 @@
 This project focuses on analyzing layoffs in the **tech industry** using **SQL**. The dataset, sourced from Kaggle ([Layoffs Dataset](https://www.kaggle.com/datasets/swaptr/layoffs-2022)), contains **2,361 records**. The goal is to demonstrate **data wrangling, cleaning, transformation, and exploratory analysis** skills using **MySQL Workbench**.
 
 ## Power BI Dashboard
-- ![Tableau Dashboard](TABLEAU.png)
+- ![Power BI Dashboard](DashBoard.png)
 
 
 ## 📊 Data Cleaning & Exploratory Data Analysis (EDA)
