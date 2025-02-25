@@ -1,7 +1,16 @@
-# 📌 Layoffs Data Analysis Project - Tech Industry
+# 📌 Layoffs Data Analysis Project - 
 
 ## 📖 Project Overview
 This project focuses on analyzing layoffs in the **tech industry** using **SQL**. The dataset, sourced from Kaggle ([Layoffs Dataset](https://www.kaggle.com/datasets/swaptr/layoffs-2022)), contains **2,361 records**. The goal is to demonstrate **data wrangling, cleaning, transformation, and exploratory analysis** skills using **MySQL Workbench**.
+
+### Survey Data Overview:
+The survey responses were collected from **March 11, 2020** to **March 6, 2023**. This timeframe covers a variety of periods, including:
+- **Pre-pandemic** (2020)
+- **Pandemic period** (2020-2021)
+- **Post-pandemic** (2022-2023)
+
+This allows us to track changes over time and identify any significant trends or shifts in user behavior.
+
 
 ## Power BI Dashboard
 - ![Power BI Dashboard](DashBoard.png)
